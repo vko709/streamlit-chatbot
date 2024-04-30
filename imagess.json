@@ -1,0 +1,262 @@
+[
+	{
+		"image": "image1_1.jpeg",
+		"clip_topic": "school of mechanical engineering department of automobile engineering saua1302 automotive petrol engine"
+	},
+	{
+		"image": "image5_1.png",
+		"clip_topic": "combustion engine"
+	},
+	{
+		"image": "image6_1.png",
+		"clip_topic": "cylinder lubrication"
+	},
+	{
+		"image": "image6_2.jpeg",
+		"clip_topic": "piston wall"
+	},
+	{
+		"image": "image7_1.jpeg",
+		"clip_topic": "rod assembly"
+	},
+	{
+		"image": "image9_1.jpeg",
+		"clip_topic": "total cylinder volume"
+	},
+	{
+		"image": "image11_1.jpeg",
+		"clip_topic": "exhaust valve"
+	},
+	{
+		"image": "image11_2.jpeg",
+		"clip_topic": "exhaust valve"
+	},
+	{
+		"image": "image13_1.png",
+		"clip_topic": "non- uniform turning movement"
+	},
+	{
+		"image": "image15_1.jpeg",
+		"clip_topic": "theoretical valve timing diagram"
+	},
+	{
+		"image": "image16_1.jpeg",
+		"clip_topic": "valve timing diagram"
+	},
+	{
+		"image": "image17_1.png",
+		"clip_topic": "valve timing diagram"
+	},
+	{
+		"image": "image17_2.jpeg",
+		"clip_topic": "valve timing diagram"
+	},
+	{
+		"image": "image18_1.png",
+		"clip_topic": "otto"
+	},
+	{
+		"image": "image18_2.png",
+		"clip_topic": "standard efficiency"
+	},
+	{
+		"image": "image18_3.png",
+		"clip_topic": "standard efficiency"
+	},
+	{
+		"image": "image19_1.png",
+		"clip_topic": "internal combustion engine"
+	},
+	{
+		"image": "image22_1.jpeg",
+		"clip_topic": "fuel discharge nozzle"
+	},
+	{
+		"image": "image25_1.jpeg",
+		"clip_topic": "fuel flow nozzle"
+	},
+	{
+		"image": "image26_1.jpeg",
+		"clip_topic": "jet device"
+	},
+	{
+		"image": "image26_2.jpeg",
+		"clip_topic": "jet device"
+	},
+	{
+		"image": "image28_1.jpeg",
+		"clip_topic": "air-fuel ratio"
+	},
+	{
+		"image": "image29_1.jpeg",
+		"clip_topic": "starter petrol jet"
+	},
+	{
+		"image": "image31_1.jpeg",
+		"clip_topic": "fuel mixture enters"
+	},
+	{
+		"image": "image32_1.jpeg",
+		"clip_topic": "acceleration pump arrangement"
+	},
+	{
+		"image": "image34_1.jpeg",
+		"clip_topic": "downdraught carburetor ["
+	},
+	{
+		"image": "image35_1.png",
+		"clip_topic": "\u2022 time fuel delivery \uf0b7"
+	},
+	{
+		"image": "image36_1.jpeg",
+		"clip_topic": "internal combustion engine"
+	},
+	{
+		"image": "image38_1.jpeg",
+		"clip_topic": "types of ignition system"
+	},
+	{
+		"image": "image39_1.jpeg",
+		"clip_topic": "basic battery ignition system contains"
+	},
+	{
+		"image": "image40_1.png",
+		"clip_topic": "typical lead-acid storage battery"
+	},
+	{
+		"image": "image41_1.jpeg",
+		"clip_topic": "ignition coil"
+	},
+	{
+		"image": "image42_1.jpeg",
+		"clip_topic": "external electrical connections"
+	},
+	{
+		"image": "image43_1.jpeg",
+		"clip_topic": "side electrode"
+	},
+	{
+		"image": "image44_1.jpeg",
+		"clip_topic": "plug \u2019 s heat range determines"
+	},
+	{
+		"image": "image44_2.jpeg",
+		"clip_topic": "plug \u2019 s heat range determines"
+	},
+	{
+		"image": "image45_1.jpeg",
+		"clip_topic": "ignition system"
+	},
+	{
+		"image": "image45_2.jpeg",
+		"clip_topic": "camshaft rotation results"
+	},
+	{
+		"image": "image46_1.png",
+		"clip_topic": "magneto ignition system"
+	},
+	{
+		"image": "image49_1.png",
+		"clip_topic": "silicon controlled rectifier"
+	},
+	{
+		"image": "image52_1.jpeg",
+		"clip_topic": "ignition system"
+	},
+	{
+		"image": "image54_1.png",
+		"clip_topic": "mechanism vacuum"
+	},
+	{
+		"image": "image55_1.png",
+		"clip_topic": "internal combustion engine"
+	},
+	{
+		"image": "image58_1.jpeg",
+		"clip_topic": "absorbs heat"
+	},
+	{
+		"image": "image59_1.png",
+		"clip_topic": "thermo siphon"
+	},
+	{
+		"image": "image59_2.jpeg",
+		"clip_topic": "thermo siphon"
+	},
+	{
+		"image": "image60_1.png",
+		"clip_topic": "pump circulation"
+	},
+	{
+		"image": "image60_2.png",
+		"clip_topic": "pump circulation"
+	},
+	{
+		"image": "image60_3.png",
+		"clip_topic": "system water"
+	},
+	{
+		"image": "image61_1.png",
+		"clip_topic": "water pump impeller"
+	},
+	{
+		"image": "image62_1.png",
+		"clip_topic": "cross sectional view"
+	},
+	{
+		"image": "image62_2.png",
+		"clip_topic": "cross sectional view"
+	},
+	{
+		"image": "image62_3.png",
+		"clip_topic": "cross sectional view"
+	},
+	{
+		"image": "image63_1.jpeg",
+		"clip_topic": "fan rotates"
+	},
+	{
+		"image": "image63_2.png",
+		"clip_topic": "air flow"
+	},
+	{
+		"image": "image64_1.png",
+		"clip_topic": "engine cylinder"
+	},
+	{
+		"image": "image65_1.jpeg",
+		"clip_topic": "vacuum valve"
+	},
+	{
+		"image": "image66_1.jpeg",
+		"clip_topic": "radiator tube"
+	},
+	{
+		"image": "image68_1.jpeg",
+		"clip_topic": "crank shaft"
+	},
+	{
+		"image": "image69_1.jpeg",
+		"clip_topic": "oil pressure gauge"
+	},
+	{
+		"image": "image69_2.jpeg",
+		"clip_topic": "separate oil line"
+	},
+	{
+		"image": "image72_1.png",
+		"clip_topic": "combustion and combustion chambers combustion"
+	},
+	{
+		"image": "image73_1.png",
+		"clip_topic": "types of combustion chamber in si engine"
+	},
+	{
+		"image": "image76_1.png",
+		"clip_topic": "degree crank rotation"
+	},
+	{
+		"image": "image80_1.png",
+		"clip_topic": "vibratory motion causes crankshaft vibrations"
+	}
+]
